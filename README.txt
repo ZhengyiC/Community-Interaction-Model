@@ -20,4 +20,5 @@ Main files to run:
     if experimental data used, save the raw data in rawData folder as csv file containing n*m mitrices data where n= number of training set and m = number of species in the experiment
     run runModels.ipynb
     see the last session for examples of running normalized and non-normalized data 
+    output interaction coefficient can be found in the output folder
     
